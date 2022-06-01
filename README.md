@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhade26253534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhade26253534" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhadeep-mukherjee-2668a3191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhadeep-mukherjee-2668a3191/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhadeep-mukherjee-2668a3191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadeep-mukherjee-2668a3191" height="30" width="40" /></a>
 <a href="https://instagram.com/subhadeep_40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhadeep_40" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.linkedin.com/in/subhadeep-mukherjee-2668a3191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/subhadeep-mukherjee-2668a3191/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mukherjeesubhadeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeesubhadeep" height="30" width="40" /></a>
 <a href="https://discord.gg/subhadeep_the_lord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subhadeep_the_lord" height="30" width="40" /></a>
 </p>
 
